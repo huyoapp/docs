@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://huyoverse.com/assets/huyoapp_withtext.png",
+    "light": "https://huyoverse.com/assets/huyoapp_withtext.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://huyoverse.com/assets/huyoapp_icon.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -17,13 +17,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Contact",
+      "url": "https://huyo.app/contact"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "HuYoAPP",
+    "url": "https://huyo.app"
   },
   "tabs": [
     {
@@ -71,8 +71,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "website": "https://huyo.app"
   }
 }
